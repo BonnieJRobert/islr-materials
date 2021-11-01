@@ -12,9 +12,6 @@ islr-materials
 
 Describe data being used (links), and how to run. Eg:
 
-There are four core scripts that are required for the analysis, they need to be run in order:
-
-
 #### Example
 
 This is a basic example which shows you how to solve a common problem:
